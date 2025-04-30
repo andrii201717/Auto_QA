@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Віртуальне середовище
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+pip-log.txt
+
+# IDE
+.idea/
+.vscode/
+
+# Конфіденційні дані
+.env
+*.key
